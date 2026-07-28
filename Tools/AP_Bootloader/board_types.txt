@@ -329,6 +329,8 @@ AP_HW_JHEMCU-H743HD                  1411
 
 AP_HW_LongbowF405                    1422
 
+AP_HW_ORQAAPB                        1441
+
 AP_HW_MountainEagleH743              1444
 
 AP_HW_StellarF4                      1500
